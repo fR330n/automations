@@ -10,5 +10,11 @@
         "isFree": false,
         "link": "https://www.icloud.com/shortcuts/8f4de9e61bb846149b66f48932ef23d4",
         "color": "hex007AFF"
+    },
+    {
+        "title": "Markup and Send",
+        "isFree": true,
+        "link": "https://www.icloud.com/shortcuts/473d301589934ef8af828e0909876522",
+        "color": "hexFF8EE2"
     }
 ]
