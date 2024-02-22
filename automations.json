@@ -16,5 +16,17 @@
         "isFree": true,
         "link": "https://www.icloud.com/shortcuts/473d301589934ef8af828e0909876522",
         "color": "hexFF8EE2"
+    },
+    {
+        "title": "Start Pomodoro",
+        "isFree": true,
+        "link": "https://www.icloud.com/shortcuts/2367a9a9a7044fe096c324d46a623a64",
+        "color": "hexFF6566"
+    },
+    {
+        "title": "Drive Home",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/1f8bd9b7782b499f833900c14df362a6",
+        "color": "hex9B59FF"
     }
 ]
