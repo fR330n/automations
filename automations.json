@@ -52,6 +52,18 @@
         "isFree": false,
         "link": "https://www.icloud.com/shortcuts/58641aa3bc0149978d1c90260025fb82",
         "color": "hex00E0FF"
+    },
+    {
+        "title": "Reading",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/bf802577e3a043548d1e007fdf649137",
+        "color": "hexFF9D0A"
+    },
+    {
+        "title": "Do Not Disturb",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/1ed02d31cb1f42ed801fe1f41e929349",
+        "color": "hex00E7B3"
     }
 
 
