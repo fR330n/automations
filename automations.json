@@ -322,6 +322,18 @@
         "isFree": false,
         "link": "https://www.icloud.com/shortcuts/8084a9dfee0b4703a1e30169d8877627",
         "color": "hex007AFF"
+    },
+    {
+        "title": "Open my shortcuts",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/e517c0e12e7d414ba791f0845ca9a7c3",
+        "color": "hexA89B8B"
+    },
+    {
+        "title": "Where did I park?",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/7c2ff2dd358547ae872e0617e0fef3e1",
+        "color": "hex00E0FF"
     }
     
 ]
