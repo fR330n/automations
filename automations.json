@@ -34,5 +34,26 @@
         "isFree": false,
         "link": "https://www.icloud.com/shortcuts/7ec3a71349c6462eaabbe60dece0874a",
         "color": "hexFF6566"
+    },
+    {
+        "title": "Watermark photo",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/5dec926c739a4b96b637336888c418a0",
+        "color": "hexFF8EE2"
+    },
+    {
+        "title": "Reset Background Sounds",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/c6d6e8aa29e24ca9815d29b7dd618962",
+        "color": "hex00E7B3"
+    },
+    {
+        "title": "Mindfulness",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/58641aa3bc0149978d1c90260025fb82",
+        "color": "hex00E0FF"
     }
+
+
+    
 ]
