@@ -310,6 +310,18 @@
         "isFree": false,
         "link": "https://www.icloud.com/shortcuts/42d76cc27e3e4a5da42007dbdadcee02",
         "color": "hexFF8EE2"
+    },
+    {
+        "title": "Lean Body Mass Logger",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/bd3b7cd523d040b5af06a148e09c2e14",
+        "color": "hex00E7B3"
+    },
+    {
+        "title": "Battery Stats",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/8084a9dfee0b4703a1e30169d8877627",
+        "color": "hex007AFF"
     }
     
 ]
