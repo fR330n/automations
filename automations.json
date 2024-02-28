@@ -334,6 +334,30 @@
         "isFree": false,
         "link": "https://www.icloud.com/shortcuts/7c2ff2dd358547ae872e0617e0fef3e1",
         "color": "hex00E0FF"
+    },
+    {
+        "title": "Play everywhere",
+        "isFree": true,
+        "link": "https://www.icloud.com/shortcuts/4554f62890a1411dbc8836c18c63581a",
+        "color": "hex05F000"
+    },
+    {
+        "title": "Show my schedule for tomorrow",
+        "isFree": true,
+        "link": "https://www.icloud.com/shortcuts/9f927961b09f4420b1f06d105e7780ac",
+        "color": "hexFF6566"
+    },
+    {
+        "title": "Draft an email",
+        "isFree": true,
+        "link": "https://www.icloud.com/shortcuts/e4e635f2e7ed4e13aac5556153081b9c",
+        "color": "hex05F000"
+    },
+    {
+        "title": "Check for App Updates",
+        "isFree": true,
+        "link": "https://www.icloud.com/shortcuts/c63a93d74340416c92f38d8aba345fb8",
+        "color": "hex00E0FF"
     }
     
 ]
