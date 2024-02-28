@@ -256,6 +256,18 @@
         "isFree": false,
         "link": "https://www.icloud.com/shortcuts/c1ea59bd33734e488dad5e80ff12eea7",
         "color": "hexCA8DFF"
+    },
+    {
+        "title": "Change calendar set",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/9399cda584a443bba88aa1de8af8c5f3",
+        "color": "hexFF6566"
+    },
+    {
+        "title": "Open the App Store",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/cb26423b924b481dadefbe6f69a14505",
+        "color": "hex00E0FF"
     }
     
 ]
