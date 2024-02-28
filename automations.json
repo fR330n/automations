@@ -67,7 +67,7 @@
     },
     {
         "title": "Do Not Disturb",
-        "isFree": false,
+        "isFree": true,
         "link": "https://www.icloud.com/shortcuts/1ed02d31cb1f42ed801fe1f41e929349",
         "color": "hex00E7B3"
     },
@@ -91,9 +91,15 @@
     },
     {
         "title": "Note to self",
-        "isFree": false,
+        "isFree": true,
         "link": "https://www.icloud.com/shortcuts/63b728a3eef24c91a211b26d15858d90",
         "color": "hexFFCE00"
+    },
+    {
+        "title": "Calculate tip",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/5eebf23ca98044a6be79cd57798fcf5e",
+        "color": "hexA89B8B"
     }
 
 
