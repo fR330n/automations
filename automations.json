@@ -286,6 +286,30 @@
         "isFree": false,
         "link": "https://www.icloud.com/shortcuts/ebb657eee08e46c787a4628070d16a9c",
         "color": "hexA8A8A8"
+    },
+    {
+        "title": "Set Kindle charging reminder",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/cba19d5bf06c4e8dbbeba4e92cb69f1a",
+        "color": "hex007AFF"
+    },
+    {
+        "title": "Open Favorites",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/938c9da4030143a2b82c5e8eff7e04f8",
+        "color": "hex05F000"
+    },
+    {
+        "title": "Convert Live Photo into Video or GIF",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/4a2ff6495c6e4996881095f1cc5aaa4d",
+        "color": "hexCA8DFF"
+    },
+    {
+        "title": "Stop AirPlay",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/42d76cc27e3e4a5da42007dbdadcee02",
+        "color": "hexFF8EE2"
     }
     
 ]
