@@ -190,6 +190,72 @@
         "isFree": false,
         "link": "https://www.icloud.com/shortcuts/110151a3c14845b99f4fc42ff434a815",
         "color": "hexCA8DFF"
+    },
+    {
+        "title": "Turn on Kiroku Radio",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/add3af8ece174ba89da769902acdfc0d",
+        "color": "hex00E7B3"
+    },
+    {
+        "title": "Open links from Today",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/74d045c3dd2048528333817356da98f7",
+        "color": "hex9B59FF"
+    },
+    {
+        "title": "Outfit of the Day",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/8f54ee0f8e9241e4a1993c12d41a82b7",
+        "color": "hexFF8EE2"
+    },
+    {
+        "title": "Open current shortcuts",
+        "isFree": true,
+        "link": "https://www.icloud.com/shortcuts/547b685d3a0844d89811e14059f4c0d2",
+        "color": "hexA8A8A8"
+    },
+    {
+        "title": "Set parked car",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/4c6a6d8bad624f53b80eb89b1298227c",
+        "color": "hex00E0FF"
+    },
+    {
+        "title": "Open the World Clock",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/62586279f1844a358f65f2804869819b",
+        "color": "hex00E7B3"
+    },
+    {
+        "title": "Remove background from Photo",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/512604111a714965adf4fe356a69b3ee",
+        "color": "hexFF8EE2"
+    },
+    {
+        "title": "Turn Personal Hotspot on",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/9a6b82f1cb504213a80ec5f06bc6a7c1",
+        "color": "hex05F000"
+    },
+    {
+        "title": "Remove playback destination",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/b709aa05fffa4fd2bc0eb8da06864fe8",
+        "color": "hexFFCE00"
+    },
+    {
+        "title": "Show my schedule for tomorrow",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/9f927961b09f4420b1f06d105e7780ac",
+        "color": "hexFF6566"
+    },
+    {
+        "title": "Turn on the screensaver",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/c1ea59bd33734e488dad5e80ff12eea7",
+        "color": "hexCA8DFF"
     }
     
 ]
