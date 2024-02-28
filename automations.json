@@ -90,18 +90,17 @@
         "color": "hexFF9D0A"
     },
     {
-        "title": "Note to self",
-        "isFree": true,
-        "link": "https://www.icloud.com/shortcuts/63b728a3eef24c91a211b26d15858d90",
-        "color": "hexFFCE00"
-    },
-    {
         "title": "Calculate tip",
         "isFree": false,
         "link": "https://www.icloud.com/shortcuts/5eebf23ca98044a6be79cd57798fcf5e",
         "color": "hexA89B8B"
+    },
+    {
+        "title": "Note to self",
+        "isFree": true,
+        "link": "https://www.icloud.com/shortcuts/63b728a3eef24c91a211b26d15858d90",
+        "color": "hexFFCE00"
     }
-
 
 
     
