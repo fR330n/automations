@@ -118,6 +118,78 @@
         "isFree": false,
         "link": "https://www.icloud.com/shortcuts/87f53a34d4f54245a591c4fa85c92a94",
         "color": "hex007AFF"
+    },
+    {
+        "title": "Open Play TV",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/843956fa249a4a00828c1241ec57f54a",
+        "color": "hexA8A8A8"
+    },
+    {
+        "title": "Open my Subscriptions",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/b13121c79f3d404aa3591eae7c68dde1",
+        "color": "hexFF6566"
+    },
+    {
+        "title": "Activate noise control",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/ac563cc7a42d4876b09a42d2fbd9204c",
+        "color": "hex05F000"
+    },
+    {
+        "title": "Add Now Playing to Menu Bar",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/e5671c7c790f41cb9fa46745025afc8c",
+        "color": "hexFF9D0A"
+    },
+    {
+        "title": "Transfer camera settings",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/8c36dcc81ed34ccfa6b749b7f937e0d9",
+        "color": "hexFF6566"
+    },
+    {
+        "title": "Open Mastodon notifications",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/538364cb39c4405aac7943f5d48e15ba",
+        "color": "hex9B59FF"
+    },
+    {
+        "title": "Put the lyrics up on the TV",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/e1062ad7deca49868b20211ac10c3597",
+        "color": "hexFF6566"
+    },
+    {
+        "title": "Write down gifts received",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/9c2afd2961ed4b94a94f9ed14fc65157",
+        "color": "hexFFCE00"
+    },
+    {
+        "title": "Log thankfulness journal",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/a6288cd786254f53835f2c4f9f25a659",
+        "color": "hexFF9D0A"
+    },
+    {
+        "title": "Send thank-yous",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/9a5350a17dc940f0a68cc3f83bd29e1d",
+        "color": "hex05F000"
+    },
+    {
+        "title": "Check for a white christmas",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/86714bf006a049a685cb63c6a3f91595",
+        "color": "hex00E0FF"
+    },
+    {
+        "title": "Play Sonic on the TV",
+        "isFree": false,
+        "link": "https://www.icloud.com/shortcuts/110151a3c14845b99f4fc42ff434a815",
+        "color": "hexCA8DFF"
     }
     
 ]
